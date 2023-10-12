@@ -1,6 +1,8 @@
 # LHL-Capstone
 
-## The Shift: Analyzing and Forecasting Alberta's Energy Grid (https://public.tableau.com/views/TheShiftAnalyzingandForecastingAlbertasEnergyGrid/TheShift?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+## The Shift: Analyzing and Forecasting Alberta's Energy Grid
+
+Link to tableau: (https://public.tableau.com/views/TheShiftAnalyzingandForecastingAlbertasEnergyGrid/TheShift?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Project Intro / Goals:
 
